@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>React App is running</h1>
+        <h1>React App is running in firebase</h1>
 
       </div>
     );
